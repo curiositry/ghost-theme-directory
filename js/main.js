@@ -100,7 +100,7 @@ var themes = {
     "source": "https://github.com/interslice/heidi",
     "demo": "http://heidi.interslice.in/",
     "screenshot" : "img/screenshots/lg/heidi.png",
-    "tags" : ["light", "2-column", "typographic", "minimal", "responsive", "sans"]
+    "tags" : ["light", "multi-column", "typographic", "minimal", "responsive", "sans"]
   }
 };
 
