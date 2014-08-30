@@ -101,7 +101,6 @@ input, button, textarea {
 input:focus, input:active, button:focus, button:active {
   border: 1px solid orange;
   box-shadow: none;
-
 }
 
 .active{
