@@ -1,6 +1,7 @@
 $(function () {
   $('#Container').mixItUp();
 });
+
 var controls = document.getElementById("controls");
 controls.style.display = "block";
 
@@ -89,6 +90,17 @@ var themes = {
     "demo": "http://photoghost-demo.azurewebsites.net/",
     "screenshot" : "img/screenshots/lg/photo-ghost.png",
     "tags" : ["dark", "1-column", "photographic", "minimal", "responsive", "sans"]
+  },
+    "6": {
+    "id" : "6",
+    "title": "Heidi",
+    "author": "Interslice",
+    "author_url": "https://github.com/interslice ",
+    "cost": 0,
+    "source": "https://github.com/interslice/heidi",
+    "demo": "http://heidi.interslice.in/",
+    "screenshot" : "http://omphalosskeptic.github.io/img/screenshots/lg/heidi.png ",
+    "tags" : ["light", "2-column", "typographic", "minimal", "responsive", "sans"]
   }
 };
 
