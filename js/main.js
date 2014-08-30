@@ -99,7 +99,7 @@ var themes = {
     "cost": 0,
     "source": "https://github.com/interslice/heidi",
     "demo": "http://heidi.interslice.in/",
-    "screenshot" : "http://omphalosskeptic.github.io/images/screenshots/lg/heidi.png ",
+    "screenshot" : "http://omphalosskeptic.github.io/ghost-theme-directory/img/screenshots/lg/heidi.png",
     "tags" : ["light", "2-column", "typographic", "minimal", "responsive", "sans"]
   }
 };
