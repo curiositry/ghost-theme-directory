@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="favicon.svg"
-   inkscape:export-filename="/var/www/microplate/apple-touch-icon.png"
+   inkscape:export-filename="/var/www/ghost-themes.github.io/apple-touch-icon.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -27,8 +27,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.6654519"
-     inkscape:cx="37.192423"
+     inkscape:zoom="1"
+     inkscape:cx="121.23071"
      inkscape:cy="77.643791"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -55,30 +55,57 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-923.3622)">
-    <path
-       sodipodi:type="arc"
-       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="path2989"
-       sodipodi:cx="81.412086"
-       sodipodi:cy="71.974022"
-       sodipodi:rx="64.529396"
-       sodipodi:ry="64.529396"
-       d="m 127.04126,26.344846 c 25.2003,25.200296 25.2003,66.05805 0,91.258344 -25.20029,25.2003 -66.058047,25.2003 -91.258345,1e-5 -25.200298,-25.200298 -25.2003,-66.058052 -4e-6,-91.25835 C 60.95594,1.171819 101.75985,1.140594 126.97137,26.275069"
-       transform="matrix(0.99418605,0,0,0.99418605,-16.034194,916.52825)"
-       sodipodi:start="5.4977871"
-       sodipodi:end="11.779442"
-       sodipodi:open="true" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.89717745999999998;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3008-7-8"
+       width="129.33391"
+       height="129.33391"
+       x="1.333046"
+       y="924.69525"
+       ry="1.1191633" />
     <text
        xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:139.99999762%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Abecedario;-inkscape-font-specification:Abecedario"
-       x="36.419998"
-       y="1028.4027"
-       id="text2985"
+       style="font-size:95.94237518px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:139.99999762%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:0.39215686;stroke:none;font-family:Abecedario;-inkscape-font-specification:Sans Bold"
+       x="40.209019"
+       y="1028.1964"
+       id="text2985-62-7"
        sodipodi:linespacing="140%"><tspan
          sodipodi:role="line"
-         id="tspan2987"
-         x="36.419998"
-         y="1028.4027"
-         style="font-size:117px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Fira Sans;-inkscape-font-specification:Fira Sans Ultra-Heavy;text-anchor:start;text-align:start;writing-mode:lr;line-height:140%">?</tspan></text>
+         id="tspan2987-3-2"
+         x="40.209019"
+         y="1028.1964"
+         style="font-size:95.94237518px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:extra-condensed;text-align:start;line-height:139.99999762%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:0.39215686;font-family:Oswald;-inkscape-font-specification:Oswald Bold Ultra-Condensed">G</tspan></text>
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:0.66210043;fill-rule:nonzero;stroke:none;stroke-width:2.89717745999999998;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3008-7"
+       width="129.33391"
+       height="129.33391"
+       x="-0.13758102"
+       y="922.79065"
+       ry="1.1191633" />
+    <text
+       xml:space="preserve"
+       style="font-size:95.94237518px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:139.99999762%;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:0.39215686;stroke:none;font-family:Abecedario;-inkscape-font-specification:Sans Bold"
+       x="35.601635"
+       y="1028.1964"
+       id="text2985-3-4"
+       sodipodi:linespacing="140%"><tspan
+         sodipodi:role="line"
+         id="tspan2987-8-6"
+         x="35.601635"
+         y="1028.1964"
+         style="font-size:95.94237518px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:extra-condensed;text-align:start;line-height:139.99999762%;writing-mode:lr-tb;text-anchor:start;fill:#00ff00;fill-opacity:0.39215686;font-family:Oswald;-inkscape-font-specification:Oswald Bold Ultra-Condensed">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:95.94237518px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:139.99999762%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:0.39215686;stroke:none;font-family:Abecedario;-inkscape-font-specification:Sans Bold"
+       x="30.994255"
+       y="1028.1964"
+       id="text2985-1"
+       sodipodi:linespacing="140%"><tspan
+         sodipodi:role="line"
+         id="tspan2987-40"
+         x="30.994255"
+         y="1028.1964"
+         style="font-size:95.94237518px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:extra-condensed;text-align:start;line-height:139.99999762%;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:0.39215686;font-family:Oswald;-inkscape-font-specification:Oswald Bold Ultra-Condensed">G</tspan></text>
   </g>
 </svg>
