@@ -101,6 +101,17 @@ var themes = {
     "demo": "http://heidi.interslice.in/",
     "screenshot" : "img/screenshots/lg/heidi.png",
     "tags" : ["light", "multi-column", "typographic", "minimal", "responsive", "sans"]
+  },
+    "7": {
+    "id" : "7",
+    "title": "Wordy",
+    "author": "Dominick Turnbull",
+    "author_url": "https://twitter.com/symphaticidiot ",
+    "cost": 0,
+    "source": "https://github.com/symphaticidiot/wordy",
+    "demo": "http://blog.dominickturnbull.co.uk",
+    "screenshot" : "https://raw.githubusercontent.com/symphaticidiot/Wordy/master/screenshot.png",
+    "tags" : ["light", "sidebar", "typographic", "minimal", "responsive", "sans"]
   }
 };
 
