@@ -237,6 +237,7 @@ input:focus, input:active, button:focus, button:active {
   float:right;
   font-family: Oswald;
   color:#777;
+  margin-top: 5px;
 }
 
 .controls-toggle strong{
