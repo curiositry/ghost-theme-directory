@@ -111,7 +111,7 @@ var themes = {
     "source": "https://github.com/symphaticidiot/wordy",
     "demo": "http://blog.dominickturnbull.co.uk",
     "screenshot" : "https://raw.githubusercontent.com/symphaticidiot/Wordy/master/screenshot.png",
-    "tags" : ["light", "sidebar", "typographic", "minimal", "responsive", "sans"]
+    "tags" : ["light", "multi-column", "typographic", "minimal", "responsive", "sans"]
   }
 };
 
