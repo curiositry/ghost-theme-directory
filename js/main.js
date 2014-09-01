@@ -112,7 +112,19 @@ var themes = {
     "demo": "http://blog.dominickturnbull.co.uk",
     "screenshot" : "https://raw.githubusercontent.com/symphaticidiot/Wordy/master/screenshot.png",
     "tags" : ["light", "multi-column", "typographic", "minimal", "responsive", "sans"]
-  }
+  },
+
+  "8": {
+    "id" : "8",
+    "title": "Echo ",
+    "author": "Christopher Yee ",
+    "author_url": "http://christopheryee.ca/ ",
+    "cost": 20,
+    "source": "https://creativemarket.com/cmyee/24881-Echo ",
+    "demo": "http://christopheryee.ca/ghost/echo/ ",
+    "screenshot" : "https://d3ui957tjb5bqd.cloudfront.net/images/screenshots/products/7/76/76131/1-o.png ",
+    "tags" : ["light", "1-column", "typographic", "minimal", "responsive", "serif"]
+  },
 };
 
 function generateList(json, container) {
