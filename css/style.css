@@ -92,6 +92,10 @@ a:hover, a:active {
   border-bottom: 1px solid gray;
 }
 
+p{
+  min-width: 750px;
+}
+
 input, button, textarea {
   padding: 10px;
   border: 1px solid gray;
@@ -159,6 +163,47 @@ input:focus, input:active, button:focus, button:active {
 /* Controls */
 .caraf .mix{
   display: none;
+}
+
+/*
+.btn{
+  padding: 10px;
+  border-top: 1px solid #FEFDFB;
+  border: 1px solid #ffbb66;
+  box-shadow: none;
+  background-color: moccasin;
+  border-bottom: 4px solid orange;
+}
+*/
+
+.btn{
+  font-family: Oswald;
+  font-size: 1.2em;
+  padding: 10px;
+  text-shadow: 0 0 10px white;
+  border-top: 1px solid #FEFDFB;
+  border: 1px solid orange;
+  box-shadow: none;
+  outline: white;
+  border-radius: .2em;
+  margin: .5em;
+  background-color: moccasin;
+  box-shadow: 1px 5px 0 2px #dd4814;
+  -webkit-transition: .1s;
+  -o-transition: .1s;
+  transition: .1s;
+  position: relative;
+  top:0;
+}
+
+.btn:active, .btn:hover{
+  box-shadow: 1px 3px 0 2px #dd4814;
+  position: relative;
+  top:2px;
+  background-color: lemonchiffon;
+  -webkit-transition: .1s;
+  -o-transition: .1s;
+  transition: .1s;
 }
 
 .btn-group{
