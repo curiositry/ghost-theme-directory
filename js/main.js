@@ -137,6 +137,18 @@ var themes = {
     "screenshot" : "https://d3ui957tjb5bqd.cloudfront.net/images/screenshots/products/11/114/114481/1-o.png ",
     "tags" : ["light", "1-column", "photographic", "minimal", "responsive", "sans"]
   },
+
+    "10": {
+    "id" : "10",
+    "title": "Mochi ",
+    "author": "Christopher Yee ",
+    "author_url": "http://christopheryee.ca ",
+    "cost": 17,
+    "source": "http://themeforest.net/item/mochi-responsive-theme-for-ghost/6674078 ",
+    "demo": "http://themeforest.net/item/mochi-responsive-theme-for-ghost/full_screen_preview/6674078 ",
+    "screenshot" : "https://0.s3.envato.com/files/79065401/1_theme_preview.jpg ",
+    "tags" : ["light", "multi-column", "typographic", "minimal", "responsive", "sans"]
+  }
 };
 
 function generateList(json, container) {
