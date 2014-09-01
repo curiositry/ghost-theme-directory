@@ -18,7 +18,7 @@ function toggleControls() {
     $( "#controls" ).show("slow");
     controlsToggle.innerHTML = "<strong> X </strong> SORT OPTIONS";
     controlGroup.style.border = "3px double moccasin";
-    controlGroup.style.background = "#FFFAF0";
+    controlGroup.style.background = "#FEFDFB";
   }
 }
 

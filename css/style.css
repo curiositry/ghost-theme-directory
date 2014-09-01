@@ -165,17 +165,6 @@ input:focus, input:active, button:focus, button:active {
   display: none;
 }
 
-/*
-.btn{
-  padding: 10px;
-  border-top: 1px solid #FEFDFB;
-  border: 1px solid #ffbb66;
-  box-shadow: none;
-  background-color: moccasin;
-  border-bottom: 4px solid orange;
-}
-*/
-
 .btn{
   font-family: Oswald;
   font-size: 1.2em;
@@ -196,7 +185,7 @@ input:focus, input:active, button:focus, button:active {
   top:0;
 }
 
-.btn:active, .btn:hover{
+.btn:active, .btn:hover,  .btn.active{
   box-shadow: 1px 3px 0 2px #dd4814;
   position: relative;
   top:2px;
@@ -206,11 +195,23 @@ input:focus, input:active, button:focus, button:active {
   transition: .1s;
 }
 
+.control-group .btn{
+  box-shadow: 1px 3px 0 0px #dd4814;
+  margin: -.2em;
+  padding: 3px 10px;
+  text-transform: uppercase;
+}
+
+.control-group .btn:active, .control-group .btn:hover, .btn.active{
+  box-shadow: 1px 2px 0 0px #dd4814;
+  position: relative;
+  top:1px;
+}
+
 .btn-group{
   display: inline-block;
   padding: 0;
   margin: 7px;
-  margin-right: 20px;;
 }
 
 .control-group{
@@ -220,15 +221,9 @@ input:focus, input:active, button:focus, button:active {
   border: 1px solid moccasin;;
   border-bottom: 3px double moccasin;
   border-top: 0;
-/*
-  -webkit-transition: 5s;
-  -o-transition: 5s;
-  transition: 5s;
-*/
 }
 
 .controls-toggle{
-  margin: 5px;
   font-size:2em;
   float:right;
   font-family: Oswald;
@@ -239,26 +234,20 @@ input:focus, input:active, button:focus, button:active {
   color: black;
 }
 
-.controls button{
-  font-family: Oswald;
-  padding: 3px 10px;
-  text-transform: uppercase;
-
-}
 
 .btn-group button:first-of-type{
-  margin-right:0px;
   border-radius: 5px 0 0 5px;
 }
 
 .btn-group button:last-of-type{
-  margin-left: 0 !important;
   border-radius: 0 5px 5px 0;
 }
 
+/*
 .btn-group button:nth-child(3):last-of-type{
   margin-left: -6px !important;
 }
+*/
 
 /* Cards */
 
