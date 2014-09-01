@@ -151,5 +151,19 @@ generateList(themes, 'Container');
 setTimeout(loadFooterContent, 2000);
 
 function loadFooterContent(){
-document.getElementById('site-footer').innerHTML = '<br><hr><h3><br><a href="https://omphalosskeptic.typeform.com/to/rJ75zP">&raquo; SUBMIT A THEME &laquo;</a></h3> <small><strong>(or better yet, update the theme.json file <a href="http://github.com/omphalosskeptic/ghost-theme-directory">on GitHub.</a></strong>)</small><br><br><hr><br> <em>Built with ☕ by <a href="http://omphalosskeptic.github.io">@omphalosskeptic</a> <Br><small>— using <a href="http://omphalosskeptic.github.io/microplate">Microplate</a>, <a href="http://typeplate.com">Typeplate</a>, <a href="http://kennethormandy.com/journal/normalize-opentype-css">Normalize-Opentype.css</a>, <a href="http://mixitup.io">MixItUp</a>, and <a href="http://brick.im">Brick Webfonts</a></em></small><br><br> ';
+document.getElementById('site-footer').innerHTML = '<br><hr><br>' +
+  '<h3>About this Project</h3>'+
+  '<p>The Ghost Theme Directory is an open-source side project by <a href="http://omphalosskeptic.github.io">@omphalosskeptic</a> created to solve the problem of finding high quality Ghost themes that match the tone of your blog.</p>'+
+'<a class="btn unstyled-anchor" href="https://omphalosskeptic.typeform.com/to/rJ75zP">Submit a Theme</a>'+
+  ' <a class="btn unstyled-anchor" href="http://github.com/omphalosskeptic/ghost-theme-directory">Contribute on GitHub</a>'+
+  ' <a class="btn unstyled-anchor" href="http://twitter.com/omphalosskeptic/">Follow</a>'+
+  '<br><br><br><hr><br>'+
+  '<em>Built with ☕ by '+
+'<a href="http://omphalosskeptic.github.io">@omphalosskeptic</a>'+
+  '<Br><small>— using '+
+  '<a href="http://omphalosskeptic.github.io/microplate">Microplate</a>, '+
+  '<a href="http://typeplate.com">Typeplate</a>, '+
+  '<a href="http://kennethormandy.com/journal/normalize-opentype-css">Normalize-Opentype.css</a>, '+
+  '<a href="http://mixitup.io">MixItUp</a>, '+
+  'and <a href="http://brick.im">Brick Webfonts</a></em></small><br><br>';
 };
