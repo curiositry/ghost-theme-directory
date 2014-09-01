@@ -279,6 +279,7 @@ input:focus, input:active, button:focus, button:active {
 
 
 .theme-card img{
+  border: 1px solid #eee;
   border-bottom: 3px double #ccc;
 }
 
