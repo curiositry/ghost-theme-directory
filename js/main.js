@@ -123,7 +123,19 @@ var themes = {
     "source": "https://creativemarket.com/cmyee/24881-Echo ",
     "demo": "http://christopheryee.ca/ghost/echo/ ",
     "screenshot" : "https://d3ui957tjb5bqd.cloudfront.net/images/screenshots/products/7/76/76131/1-o.png ",
-    "tags" : ["light", "1-column", "typographic", "minimal", "responsive", "serif"]
+    "tags" : ["light", "multi-column", "photographic", "minimal", "responsive", "sans"]
+  },
+
+   "9": {
+    "id" : "9",
+    "title": "Bento ",
+    "author": "Christopher Yee ",
+    "author_url": "http://christopheryee.ca ",
+    "cost": 20,
+    "source": "https://creativemarket.com/cmyee/42716-Bento ",
+    "demo": "http://christopheryee.ca/ghost/bento/ ",
+    "screenshot" : "https://d3ui957tjb5bqd.cloudfront.net/images/screenshots/products/11/114/114481/1-o.png ",
+    "tags" : ["light", "1-column", "photographic", "minimal", "responsive", "sans"]
   },
 };
 
