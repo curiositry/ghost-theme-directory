@@ -128,16 +128,24 @@ function generateList(json, container) {
         var costTag = "paid";
     }
 
+    var costText = "";
+    if(theme.cost > 0){
+      var costText = " $"+theme.cost;
+    }
+
     var link = theme.source;
     if (theme.demo){
       link = theme.demo;
     }
 
     output += '<div class="mix theme-card '+costTag+' '+themeTags(theme)+'" data-myorder="'+theme.id+'">';
+
+
     output += '<a href="'+link+'" class="unstyled-anchor" target="_blank">';
-    output += '<img width="300px" src="'+theme.screenshot+'">';
-    output += '<div class="theme-card__info"><h4 class="theme-title">'+theme.title+'</h4>';
-    output += '<span><strong>$'+theme.cost+'</strong> — <a href="'+theme.demo+'">Demo</a> &bull; <a href="'+theme.source+'">Source</a></span>';
+    output += '<img width="340px" src="'+theme.screenshot+'">';
+    output += '<div class="theme-card__info">';
+    output += '<h4 class="theme-card__title">'+theme.title+'</h4>';
+    output += '<div class="btn-group" style="position:relative;bottom:6px;"><a class="btn btn--small" href="'+theme.demo+'">↗ Demo</a><a class="btn btn--small" href="'+theme.source+'">↓ Download'+costText+'</a></div>';
     output += '</a>';
     output += '</div></div>';
   };
@@ -165,5 +173,5 @@ document.getElementById('site-footer').innerHTML = '<br><hr><br>' +
   '<a href="http://typeplate.com">Typeplate</a>, '+
   '<a href="http://kennethormandy.com/journal/normalize-opentype-css">Normalize-Opentype.css</a>, '+
   '<a href="http://mixitup.io">MixItUp</a>, '+
-  'and <a href="http://brick.im">Brick Webfonts</a></em></small><br><br>';
+  'and <a href="http://brick.im">Brick Webfonts</a></em></small>';
 };

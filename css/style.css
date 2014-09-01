@@ -59,6 +59,8 @@ h4, h5, h6{
 .container {
   margin: 0 auto;
   width: 100%;
+  padding: 15px;
+  padding-top: 0;
   max-width: 1024px;
 }
 
@@ -92,8 +94,8 @@ a:hover, a:active {
   border-bottom: 1px solid gray;
 }
 
-p{
-  min-width: 750px;
+p {
+  max-width: 850px;
 }
 
 input, button, textarea {
@@ -176,6 +178,7 @@ input:focus, input:active, button:focus, button:active {
   outline: white;
   border-radius: .2em;
   margin: .5em;
+  display: block;
   background-color: moccasin;
   box-shadow: 1px 5px 0 2px #dd4814;
   -webkit-transition: .1s;
@@ -196,26 +199,32 @@ input:focus, input:active, button:focus, button:active {
 }
 
 .control-group .btn{
+  margin:-.24em !important;
+}
+
+.btn--small.btn{
+  font-size: .6em;
   box-shadow: 1px 3px 0 0px #dd4814;
-  margin: -.2em;
+  display: inline-block;
+  margin:-.13em;
   padding: 3px 10px;
   text-transform: uppercase;
 }
 
-.control-group .btn:active, .control-group .btn:hover, .btn.active{
+.control-group .btn:active, .control-group .btn:hover, .control-group .btn.active,
+.btn--small.btn:active, .btn--small.btn:hover, .btn--small.btn.active{
   box-shadow: 1px 2px 0 0px #dd4814;
   position: relative;
   top:1px;
 }
 
 .btn-group{
-  display: inline-block;
+  display: block;
   padding: 0;
-  margin: 7px;
+  margin: 5px;
 }
 
 .control-group{
-  font-size: .5em;
   background: #FEFDFB;
   padding: 2%;
   border: 1px solid moccasin;;
@@ -224,7 +233,7 @@ input:focus, input:active, button:focus, button:active {
 }
 
 .controls-toggle{
-  font-size:2em;
+  font-size:1em;
   float:right;
   font-family: Oswald;
   color:#777;
@@ -257,24 +266,27 @@ input:focus, input:active, button:focus, button:active {
 
 .theme-card{
   margin:1.5%;
-/*  box-shadow: 0 0 0 3px moccasin;*/
   background-color: #f8f8f8;
-  text-align: left;
 }
 
-
-.theme-card__info{
-  padding: 18px;
+.theme-card__info {
+  text-align: center;
+  padding: 0;
+  max-width: 340px;
+  padding-right: 5px;
 }
+
 
 .theme-card img{
-border-bottom: 3px double #ccc;
+  border-bottom: 3px double #ccc;
 }
 
-.theme-title{
+.theme-card__title{
+  display: inline-block;
+  padding: 2%;
+  margin-bottom: 0;
   font-weight: 900;
   text-transform: uppercase;
-  text-align: left;
 }
 
 
@@ -289,4 +301,15 @@ footer small{
 }
 footer small a{
   color:#777;
+}
+
+
+@media screen and (min-width:640px){
+  .btn, .btn-group{
+    display: inline-block;
+  }
+
+  .btn-group .btn{
+    display: inline-block;
+  }
 }
