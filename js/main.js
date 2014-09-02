@@ -60,13 +60,13 @@ var themes = {
   },
   "3": {
     "id" : "3",
-    "title": "No-nonsense",
-    "author": "Mihnea Dobrescu-Balaur",
-    "author_url": "http://www.mihneadb.net/",
+    "title": "Mnml",
+    "author": "Omphalosskeptic",
+    "author_url": "http://omphalosskeptic.github.io",
     "cost": 0,
-    "source": "https://github.com/mihneadb/no-nonsense",
-    "demo": "http://www.mihneadb.net/",
-    "screenshot" : "img/screenshots/lg/no-nonsense.png",
+    "source": "https://github.com/omphalosskeptic/mnml",
+    "demo": "http://mnml.herokuapp.com",
+    "screenshot" : "http://i.minus.com/iVvuj1TqTUCB5.png",
     "tags" : ["light", "1-column", "typographic", "minimal", "responsive", "sans"]
   },
   "4": {
@@ -148,7 +148,18 @@ var themes = {
     "demo": "http://themeforest.net/item/mochi-responsive-theme-for-ghost/full_screen_preview/6674078 ",
     "screenshot" : "https://0.s3.envato.com/files/79065401/1_theme_preview.jpg ",
     "tags" : ["light", "multi-column", "typographic", "minimal", "responsive", "sans"]
-  }
+  },
+    "11": {
+    "id" : "11",
+    "title": "No-nonsense",
+    "author": "Mihnea Dobrescu-Balaur",
+    "author_url": "http://www.mihneadb.net/",
+    "cost": 0,
+    "source": "https://github.com/mihneadb/no-nonsense",
+    "demo": "http://www.mihneadb.net/",
+    "screenshot" : "img/screenshots/lg/no-nonsense.png",
+    "tags" : ["light", "1-column", "typographic", "minimal", "responsive", "sans"]
+  },
 };
 
 function generateList(json, container) {
