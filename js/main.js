@@ -66,7 +66,7 @@ var themes = {
     "cost": 0,
     "source": "https://github.com/omphalosskeptic/mnml",
     "demo": "http://mnml.herokuapp.com",
-    "screenshot" : "http://i.minus.com/iVvuj1TqTUCB5.png",
+    "screenshot" : "http://api.drp.io/files/5437789e305b7.png",
     "tags" : ["light", "1-column", "typographic", "minimal", "responsive", "sans"]
   },
   "4": {
