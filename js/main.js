@@ -64,10 +64,10 @@ var themes = {
     "author": "Omphalosskeptic",
     "author_url": "http://omphalosskeptic.github.io",
     "cost": 0,
-    "source": "https://github.com/omphalosskeptic/mnml",
+    "source": "https://github.com/omphalosskeptic/mnml-ghost-theme",
     "demo": "http://mnml.herokuapp.com",
-    "screenshot" : "http://api.drp.io/files/5437789e305b7.png",
-    "tags" : ["light", "1-column", "typographic", "minimal", "responsive", "sans"]
+    "screenshot" : "http://omphalosskeptic.github.io/assets/img/mnml/Screenshot-2014-11-09.png",
+    "tags" : ["light", "1-column", "typographic", "minimal", "responsive", "serif"]
   },
   "4": {
     "id" : "4",
@@ -102,16 +102,17 @@ var themes = {
     "screenshot" : "img/screenshots/lg/heidi.png",
     "tags" : ["light", "multi-column", "typographic", "minimal", "responsive", "sans"]
   },
+  
     "7": {
     "id" : "7",
-    "title": "Wordy",
-    "author": "Dominick Turnbull",
-    "author_url": "https://twitter.com/symphaticidiot ",
-    "cost": 0,
-    "source": "https://github.com/symphaticidiot/wordy",
-    "demo": "http://blog.dominickturnbull.co.uk",
-    "screenshot" : "https://raw.githubusercontent.com/symphaticidiot/Wordy/master/screenshot.png",
-    "tags" : ["light", "multi-column", "typographic", "minimal", "responsive", "sans"]
+    "title": "Crisp ",
+    "author": "Kathy Qian ",
+    "author_url": "http://kathyqian.com ",
+    "cost": "0" ,
+    "source": "https://github.com/kathyqian/crisp-ghost-theme ",
+    "demo": "https://github.com/kathyqian/crisp-ghost-theme ",
+    "screenshot" : "https://raw.githubusercontent.com/kathyqian/crisp-ghost-theme/master/screenshots/index.png ",
+    "tags" : ["light", "1-column", "typographic", "minimal", "responsive", "serif"]
   },
 
   "8": {
@@ -122,7 +123,7 @@ var themes = {
     "cost": 20,
     "source": "https://creativemarket.com/cmyee/24881-Echo ",
     "demo": "http://christopheryee.ca/ghost/echo/ ",
-    "screenshot" : "https://d3ui957tjb5bqd.cloudfront.net/images/screenshots/products/7/76/76131/1-o.png ",
+    "screenshot" : "https://d3ui957tjb5bqd.cloudfront.net/images/screenshots/products/23/239/239193/2-o.jpg?1416269098",
     "tags" : ["light", "multi-column", "photographic", "minimal", "responsive", "sans"]
   },
 
@@ -160,6 +161,17 @@ var themes = {
     "screenshot" : "img/screenshots/lg/no-nonsense.png",
     "tags" : ["light", "1-column", "typographic", "minimal", "responsive", "sans"]
   },
+   "12": {
+    "id" : "12",
+    "title": "Wordy",
+    "author": "Dominick Turnbull",
+    "author_url": "https://twitter.com/symphaticidiot ",
+    "cost": 0,
+    "source": "https://github.com/symphaticidiot/wordy",
+    "demo": "http://blog.dominickturnbull.co.uk",
+    "screenshot" : "https://raw.githubusercontent.com/symphaticidiot/Wordy/master/screenshot.png",
+    "tags" : ["light", "multi-column", "typographic", "minimal", "responsive", "sans"]
+  }
 };
 
 function generateList(json, container) {
