@@ -10,4 +10,4 @@ Aside from allghostthemes.com, which has few sort-tools to speak of, there is no
 
 This is my Open Source solution-in-progress: a place to find the perfect free (or paid) Ghost theme for the tone of your blog.
 
-![Ghost Theme Directory](http://omphalosskeptic.github.io/ghost-theme-directory/img/ghost-theme-directory.png)
+![Ghost Theme Directory](http://curiositry.github.io/ghost-theme-directory/img/ghost-theme-directory.png)
