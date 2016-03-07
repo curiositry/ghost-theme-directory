@@ -61,12 +61,12 @@ var themes = {
   "3": {
     "id" : "3",
     "title": "Mnml",
-    "author": "Omphalosskeptic",
-    "author_url": "http://omphalosskeptic.github.io",
+    "author": "Curiositry",
+    "author_url": "http://curiositry.github.io",
     "cost": 0,
-    "source": "https://github.com/omphalosskeptic/mnml-ghost-theme",
+    "source": "https://github.com/curiositry/mnml-ghost-theme",
     "demo": "http://mnml.herokuapp.com",
-    "screenshot" : "http://omphalosskeptic.github.io/assets/img/mnml/Screenshot-2014-11-09.png",
+    "screenshot" : "http://cdn.autodidacts.io/img/mnml/Screenshot-2014-11-09.png",
     "tags" : ["light", "1-column", "typographic", "minimal", "responsive", "serif"]
   },
   "4": {
@@ -79,9 +79,20 @@ var themes = {
     "demo": "http://wharton.github.io",
     "screenshot" : "https://0.s3.envato.com/files/91960826/preview-wharton-ghost.__large_preview.jpg",
     "tags" : ["light", "1-column", "typographic", "minimal", "responsive", "serif"]
-  },
-    "5": {
+  },  
+  "5": {
     "id" : "5",
+    "title": "Triangle",
+    "author": "Matthew Haeck",
+    "author_url": "https://www.matthewhaeck.com/",
+    "cost": 0,
+    "source": "https://haeckdesign.com/freebies/themes/triangle-ghost-theme ",
+    "demo": "https://demo.haeckdesign.com/triangle/ ",
+    "screenshot" : "http://marketplace.ghost.org/wp-content/uploads/2016/01/triangle-ghost-theme-600x400.jpg",
+    "tags" : ["light", "1-column", "typographic", "minimal", "responsive", "serif"]
+  },
+    "6": {
+    "id" : "6",
     "title": "Photo Ghost",
     "author": "Casper van Donderen",
     "author_url": "https://twitter.com/de_krenk",
@@ -91,8 +102,8 @@ var themes = {
     "screenshot" : "img/screenshots/lg/photo-ghost.png",
     "tags" : ["dark", "1-column", "photographic", "minimal", "responsive", "sans"]
   },
-    "6": {
-    "id" : "6",
+    "7": {
+    "id" : "7",
     "title": "Heidi",
     "author": "Interslice",
     "author_url": "https://github.com/interslice ",
@@ -103,8 +114,8 @@ var themes = {
     "tags" : ["light", "multi-column", "typographic", "minimal", "responsive", "sans"]
   },
   
-    "7": {
-    "id" : "7",
+    "8": {
+    "id" : "8",
     "title": "Crisp ",
     "author": "Kathy Qian ",
     "author_url": "http://kathyqian.com ",
@@ -115,8 +126,8 @@ var themes = {
     "tags" : ["light", "1-column", "typographic", "minimal", "responsive", "serif"]
   },
 
-  "8": {
-    "id" : "8",
+  "9": {
+    "id" : "9",
     "title": "Echo ",
     "author": "Christopher Yee ",
     "author_url": "http://christopheryee.ca/ ",
@@ -127,8 +138,8 @@ var themes = {
     "tags" : ["light", "multi-column", "photographic", "minimal", "responsive", "sans"]
   },
 
-   "9": {
-    "id" : "9",
+   "10": {
+    "id" : "10",
     "title": "Bento ",
     "author": "Christopher Yee ",
     "author_url": "http://christopheryee.ca ",
@@ -139,8 +150,8 @@ var themes = {
     "tags" : ["light", "1-column", "photographic", "minimal", "responsive", "sans"]
   },
 
-    "10": {
-    "id" : "10",
+    "11": {
+    "id" : "11",
     "title": "Mochi ",
     "author": "Christopher Yee ",
     "author_url": "http://christopheryee.ca ",
@@ -150,8 +161,8 @@ var themes = {
     "screenshot" : "https://0.s3.envato.com/files/79065401/1_theme_preview.jpg ",
     "tags" : ["light", "multi-column", "typographic", "minimal", "responsive", "sans"]
   },
-    "11": {
-    "id" : "11",
+    "12": {
+    "id" : "12",
     "title": "No-nonsense",
     "author": "Mihnea Dobrescu-Balaur",
     "author_url": "http://www.mihneadb.net/",
@@ -161,8 +172,8 @@ var themes = {
     "screenshot" : "img/screenshots/lg/no-nonsense.png",
     "tags" : ["light", "1-column", "typographic", "minimal", "responsive", "sans"]
   },
-   "12": {
-    "id" : "12",
+   "13": {
+    "id" : "13",
     "title": "Wordy",
     "author": "Dominick Turnbull",
     "author_url": "https://twitter.com/symphaticidiot ",
@@ -171,7 +182,7 @@ var themes = {
     "demo": "http://blog.dominickturnbull.co.uk",
     "screenshot" : "https://raw.githubusercontent.com/symphaticidiot/Wordy/master/screenshot.png",
     "tags" : ["light", "multi-column", "typographic", "minimal", "responsive", "sans"]
-  }
+  },
 };
 
 function generateList(json, container) {
