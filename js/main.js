@@ -71,15 +71,15 @@ var themes = {
   },
   "4": {
     "id" : "4",
-    "title": "Wharton",
-    "author": "MeanThemes",
-    "author_url": "http://meanthemes.com/",
-    "cost": 19,
-    "source": "http://themeforest.net/item/-wharton-a-big-bold-ghost-blog-theme/7789814",
-    "demo": "http://wharton.github.io",
-    "screenshot" : "https://0.s3.envato.com/files/91960826/preview-wharton-ghost.__large_preview.jpg",
-    "tags" : ["light", "1-column", "typographic", "minimal", "responsive", "serif"]
-  },  
+    "title": "BlackPalm",
+    "author": "Macawws",
+    "author_url": "https://macaw.ws ",
+    "cost": 17,
+    "source": "https://gumroad.com/l/CCFs",
+    "demo": "http://blackpalm.macaw.ws/",
+    "screenshot" : "https://macaw.ws/assets/images/themes/BlackPalm-Theme-cover1.jpg",
+    "tags" : ["light", "1-column", "typographic", "responsive", "sans"]
+  },
   "5": {
     "id" : "5",
     "title": "Triangle",
@@ -113,7 +113,7 @@ var themes = {
     "screenshot" : "img/screenshots/lg/heidi.png",
     "tags" : ["light", "multi-column", "typographic", "minimal", "responsive", "sans"]
   },
-  
+
     "8": {
     "id" : "8",
     "title": "Crisp ",
