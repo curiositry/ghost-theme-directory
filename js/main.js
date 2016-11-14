@@ -71,14 +71,14 @@ var themes = {
   },
   "4": {
     "id" : "4",
-    "title": "BlackPalm",
-    "author": "Macawws",
-    "author_url": "https://macaw.ws ",
-    "cost": 17,
-    "source": "https://gumroad.com/l/CCFs",
-    "demo": "http://blackpalm.macaw.ws/",
-    "screenshot" : "https://macaw.ws/assets/images/themes/BlackPalm-Theme-cover1.jpg",
-    "tags" : ["light", "1-column", "typographic", "responsive", "sans"]
+    "title": "Laminim",
+    "author": "Curiositry",
+    "author_url": "http://curiositry.github.io",
+    "cost": 27,
+    "source": "https://creativemarket.com/Curiositry/1037280-Laminim-—-Ghost-Theme-for-Bloggers",
+    "demo": "http://www.autodidacts.io",
+    "screenshot" : "https://d3ui957tjb5bqd.cloudfront.net/images/screenshots/products/188/1887/1887205/screenshot-from-2016-11-13-01-12-42-o.png?1479076633",
+    "tags" : ["light", "1-column", "typographic", "responsive", "serif", "minimal"]
   },
   "5": {
     "id" : "5",
@@ -152,13 +152,13 @@ var themes = {
 
     "11": {
     "id" : "11",
-    "title": "Mochi ",
-    "author": "Christopher Yee ",
-    "author_url": "http://christopheryee.ca ",
-    "cost": 17,
-    "source": "http://themeforest.net/item/mochi-responsive-theme-for-ghost/6674078 ",
-    "demo": "http://themeforest.net/item/mochi-responsive-theme-for-ghost/full_screen_preview/6674078 ",
-    "screenshot" : "https://0.s3.envato.com/files/79065401/1_theme_preview.jpg ",
+    "title": "Ghostium",
+    "author": "Oswaldo Acauan",
+    "author_url": "https://oswaldoacauan.com/",
+    "cost": 0,
+    "source": "https://github.com/oswaldoacauan/ghostium",
+    "demo": "http://ghostium.oswaldoacauan.com/",
+    "screenshot" : "https://camo.githubusercontent.com/a417b96865cc63d7984f9af2f5858a1b7f24b630/687474703a2f2f692e696d6775722e636f6d2f6d35566354426c2e706e67",
     "tags" : ["light", "multi-column", "typographic", "minimal", "responsive", "sans"]
   },
     "12": {
@@ -174,14 +174,14 @@ var themes = {
   },
    "13": {
     "id" : "13",
-    "title": "Wordy",
-    "author": "Dominick Turnbull",
-    "author_url": "https://twitter.com/symphaticidiot ",
+    "title": "Attila",
+    "author": "Peter Amende",
+    "author_url": "http://zutrinken.com/",
     "cost": 0,
-    "source": "https://github.com/symphaticidiot/wordy",
-    "demo": "http://blog.dominickturnbull.co.uk",
-    "screenshot" : "https://raw.githubusercontent.com/symphaticidiot/Wordy/master/screenshot.png",
-    "tags" : ["light", "multi-column", "typographic", "minimal", "responsive", "sans"]
+    "source": "https://github.com/zutrinken/attila",
+    "demo": "http://attila.zutrinken.com/",
+    "screenshot" : "https://cdn.colorlib.com/wp/wp-content/uploads/sites/2/Attila.png",
+    "tags" : ["light", "1-column", "typographic", "minimal", "responsive", "serif"]
   },
 };
 
