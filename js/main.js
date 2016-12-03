@@ -77,7 +77,7 @@ var themes = {
     "cost": 27,
     "source": "https://creativemarket.com/Curiositry/1037280-Laminim-—-Ghost-Theme-for-Bloggers",
     "demo": "http://www.autodidacts.io",
-    "screenshot" : "https://d3ui957tjb5bqd.cloudfront.net/images/screenshots/products/188/1887/1887205/screenshot-from-2016-11-13-01-12-42-o.png?1479076633",
+    "screenshot" : "http://cdn.autodidacts.io/img/laminim/laminim-ghost-blog-theme.png",
     "tags" : ["light", "1-column", "typographic", "responsive", "serif", "minimal"]
   },
   "5": {
