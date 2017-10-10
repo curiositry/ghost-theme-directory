@@ -30,7 +30,7 @@ var themes = {
     "author_url": "http://ghost.org",
     "cost": 0,
     "source": "https://github.com/TryGhost/Casper",
-    "demo": "",
+    "demo": "http://demo.ghost.io",
     "screenshot" : "img/screenshots/lg/casper.jpg",
     "tags" : ["light", "1-column", "typographic", "minimal", "responsive", "serif"]
   },
@@ -76,7 +76,7 @@ var themes = {
     "author_url": "http://curiositry.github.io",
     "cost": 27,
     "source": "https://creativemarket.com/Curiositry/1037280-Laminim-—-Ghost-Theme-for-Bloggers",
-    "demo": "http://www.autodidacts.io",
+    "demo": "http://laminim.curiositry.com",
     "screenshot" : "http://cdn.autodidacts.io/img/laminim/laminim-ghost-blog-theme.png",
     "tags" : ["light", "1-column", "typographic", "responsive", "serif", "minimal"]
   },
@@ -106,10 +106,10 @@ var themes = {
     "id" : "7",
     "title": "Heidi",
     "author": "Interslice",
-    "author_url": "https://github.com/interslice ",
+    "author_url": "https://github.com/interslice",
     "cost": 0,
     "source": "https://github.com/interslice/heidi",
-    "demo": "http://heidi.interslice.in/",
+    "demo": "https://github.com/interslice/heidi",
     "screenshot" : "img/screenshots/lg/heidi.png",
     "tags" : ["light", "multi-column", "typographic", "minimal", "responsive", "sans"]
   },
@@ -122,36 +122,73 @@ var themes = {
     "cost": "0" ,
     "source": "https://github.com/kathyqian/crisp-ghost-theme ",
     "demo": "https://github.com/kathyqian/crisp-ghost-theme ",
-    "screenshot" : "https://raw.githubusercontent.com/kathyqian/crisp-ghost-theme/master/screenshots/index.png ",
+    "screenshot" : "https://raw.githubusercontent.com/kathyqian/crisp-ghost-theme/master/screenshots/list.png",
     "tags" : ["light", "1-column", "typographic", "minimal", "responsive", "serif"]
   },
 
+  // "9": {
+  //   "id" : "9",
+  //   "title": "Echo ",
+  //   "author": "Christopher Yee ",
+  //   "author_url": "http://christopheryee.ca/ ",
+  //   "cost": 20,
+  //   "source": "https://creativemarket.com/cmyee/24881-Echo ",
+  //   "demo": "http://christopheryee.ca/ghost/echo/ ",
+  //   "screenshot" : "https://d3ui957tjb5bqd.cloudfront.net/images/screenshots/products/23/239/239193/2-o.jpg?1416269098",
+  //   "tags" : ["light", "multi-column", "photographic", "minimal", "responsive", "sans"]
+  // },
+  //
+  //  "10": {
+  //   "id" : "10",
+  //   "title": "Bento ",
+  //   "author": "Christopher Yee ",
+  //   "author_url": "http://christopheryee.ca ",
+  //   "cost": 20,
+  //   "source": "https://creativemarket.com/cmyee/42716-Bento ",
+  //   "demo": "http://christopheryee.ca/ghost/bento/ ",
+  //   "screenshot" : "https://d3ui957tjb5bqd.cloudfront.net/images/screenshots/products/11/114/114481/1-o.png ",
+  //   "tags" : ["light", "1-column", "photographic", "minimal", "responsive", "sans"]
+  // },
+
+
   "9": {
     "id" : "9",
-    "title": "Echo ",
-    "author": "Christopher Yee ",
-    "author_url": "http://christopheryee.ca/ ",
-    "cost": 20,
-    "source": "https://creativemarket.com/cmyee/24881-Echo ",
-    "demo": "http://christopheryee.ca/ghost/echo/ ",
-    "screenshot" : "https://d3ui957tjb5bqd.cloudfront.net/images/screenshots/products/23/239/239193/2-o.jpg?1416269098",
-    "tags" : ["light", "multi-column", "photographic", "minimal", "responsive", "sans"]
+    "title": "Leap ",
+    "author": "Haunted Themes ",
+    "author_url": "https://www.hauntedthemes.com/",
+    "cost": 34.99,
+    "source": "https://www.hauntedthemes.com/",
+    "demo": "https://leap.hauntedthemes.com/",
+    "screenshot" : "https://leap.hauntedthemes.com/content/images/2017/09/leap-cover.png",
+    "tags" : ["light", "1-column", "typographic", "minimal", "responsive", "serif"]
   },
 
-   "10": {
+  "10": {
     "id" : "10",
-    "title": "Bento ",
-    "author": "Christopher Yee ",
-    "author_url": "http://christopheryee.ca ",
-    "cost": 20,
-    "source": "https://creativemarket.com/cmyee/42716-Bento ",
-    "demo": "http://christopheryee.ca/ghost/bento/ ",
-    "screenshot" : "https://d3ui957tjb5bqd.cloudfront.net/images/screenshots/products/11/114/114481/1-o.png ",
-    "tags" : ["light", "1-column", "photographic", "minimal", "responsive", "sans"]
+    "title": "Tawau ",
+    "author": "Haunted Themes ",
+    "author_url": "https://www.hauntedthemes.com/ ",
+    "cost": 34.99,
+    "source": "https://www.hauntedthemes.com/ ",
+    "demo": "https://tawau.hauntedthemes.com/ ",
+    "screenshot" : "https://tawau.hauntedthemes.com/content/images/2017/09/tawau-cover.png",
+    "tags" : ["light", "1-column", "typographic", "minimal", "responsive", "serif"]
   },
 
-    "11": {
+  "11": {
     "id" : "11",
+    "title": "Hoia ",
+    "author": "Haunted Themes ",
+    "author_url": "https://www.hauntedthemes.com/ ",
+    "cost": 34.99,
+    "source": "https://www.hauntedthemes.com/ ",
+    "demo": "https://hoia.hauntedthemes.com/ ",
+    "screenshot" : "https://hoia.hauntedthemes.com/content/images/2017/09/hoia-cover-1.png",
+    "tags" : ["light", "1-column", "typographic", "minimal", "responsive", "serif"]
+  },
+
+    "12": {
+    "id" : "13",
     "title": "Ghostium",
     "author": "Oswaldo Acauan",
     "author_url": "https://oswaldoacauan.com/",
@@ -161,8 +198,8 @@ var themes = {
     "screenshot" : "https://camo.githubusercontent.com/a417b96865cc63d7984f9af2f5858a1b7f24b630/687474703a2f2f692e696d6775722e636f6d2f6d35566354426c2e706e67",
     "tags" : ["light", "multi-column", "typographic", "minimal", "responsive", "sans"]
   },
-    "12": {
-    "id" : "12",
+    "13": {
+    "id" : "13",
     "title": "No-nonsense",
     "author": "Mihnea Dobrescu-Balaur",
     "author_url": "http://www.mihneadb.net/",
@@ -172,8 +209,8 @@ var themes = {
     "screenshot" : "img/screenshots/lg/no-nonsense.png",
     "tags" : ["light", "1-column", "typographic", "minimal", "responsive", "sans"]
   },
-   "13": {
-    "id" : "13",
+   "14": {
+    "id" : "14",
     "title": "Attila",
     "author": "Peter Amende",
     "author_url": "http://zutrinken.com/",
