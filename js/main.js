@@ -83,14 +83,14 @@ var themes = {
   },
   "5": {
     "id" : "5",
-    "title": "Triangle",
-    "author": "Matthew Haeck",
-    "author_url": "https://www.matthewhaeck.com/",
+    "title": "Undefined",
+    "author": "Curiositry",
+    "author_url": "http://curiositry.com",
     "cost": 0,
-    "source": "https://haeckdesign.com/freebies/themes/triangle-ghost-theme ",
-    "demo": "https://demo.haeckdesign.com/triangle/ ",
-    "screenshot" : "https://cdn.haeckdesign.com/images/freebies/triangle-ghost-theme-haeck-design.jpg",
-    "tags" : ["light", "1-column", "typographic", "minimal", "responsive", "serif"]
+    "source": "https://github.com/curiositry/undefined-ghost-theme",
+    "demo": "https://github.com/curiositry/undefined-ghost-theme",
+    "screenshot" : "http://cdn.autodidacts.io/img/undefined/undefined-ghost-theme.png",
+    "tags" : ["starter-theme", "boilerplate", "light", "1-column", "typographic", "minimal", "responsive", "serif"]
   },
     "6": {
     "id" : "6",
@@ -221,8 +221,19 @@ var themes = {
     "screenshot" : "https://cdn.colorlib.com/wp/wp-content/uploads/sites/2/Attila.png",
     "tags" : ["light", "1-column", "typographic", "minimal", "responsive", "serif"]
   },
-    "15": {
+  "15": {
     "id" : "15",
+    "title": "Triangle",
+    "author": "Matthew Haeck",
+    "author_url": "https://www.matthewhaeck.com/",
+    "cost": 0,
+    "source": "https://haeckdesign.com/freebies/themes/triangle-ghost-theme ",
+    "demo": "https://demo.haeckdesign.com/triangle/ ",
+    "screenshot" : "https://cdn.haeckdesign.com/images/freebies/triangle-ghost-theme-haeck-design.jpg",
+    "tags" : ["light", "1-column", "typographic", "minimal", "responsive", "serif"]
+  },
+    "16": {
+    "id" : "16",
     "title": "Haihara",
     "author": "Haunted Themes",
     "author_url": "https://www.hauntedthemes.com ",
