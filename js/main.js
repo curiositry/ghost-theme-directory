@@ -37,14 +37,14 @@ var themes = {
 
   "1": {
     "id" : "1",
-    "title": "Abstraction",
-    "author": "Will H. McMahan",
-    "author_url": "http://mcmahan.me/",
-    "cost": 0,
-    "source": "https://github.com/whmii/Abstraction",
-    "demo": "http://abstraction.ghost.io/",
-    "screenshot" : "img/screenshots/lg/abstraction.png",
-    "tags" : ["light", "1-column", "boilerplate", "typographic", "responsive", "sans"]
+    "title": "Laminim",
+    "author": "Curiositry",
+    "author_url": "http://curiositry.github.io",
+    "cost": 27,
+    "source": "https://creativemarket.com/Curiositry/1037280-Laminim-—-Ghost-Theme-for-Bloggers",
+    "demo": "http://laminim.curiositry.com",
+    "screenshot" : "http://cdn.autodidacts.io/img/laminim/laminim-ghost-blog-theme.png",
+    "tags" : ["light", "1-column", "typographic", "responsive", "serif", "minimal"]
   },
 
   "2": {
@@ -69,16 +69,17 @@ var themes = {
     "screenshot" : "http://cdn.autodidacts.io/img/mnml/Screenshot-2014-11-09.png",
     "tags" : ["light", "1-column", "typographic", "minimal", "responsive", "serif"]
   },
+
   "4": {
     "id" : "4",
-    "title": "Laminim",
-    "author": "Curiositry",
-    "author_url": "http://curiositry.github.io",
-    "cost": 27,
-    "source": "https://creativemarket.com/Curiositry/1037280-Laminim-—-Ghost-Theme-for-Bloggers",
-    "demo": "http://laminim.curiositry.com",
-    "screenshot" : "http://cdn.autodidacts.io/img/laminim/laminim-ghost-blog-theme.png",
-    "tags" : ["light", "1-column", "typographic", "responsive", "serif", "minimal"]
+    "title": "Abstraction",
+    "author": "Will H. McMahan",
+    "author_url": "http://mcmahan.me/",
+    "cost": 0,
+    "source": "https://github.com/whmii/Abstraction",
+    "demo": "http://abstraction.ghost.io/",
+    "screenshot" : "img/screenshots/lg/abstraction.png",
+    "tags" : ["light", "1-column", "boilerplate", "typographic", "responsive", "sans"]
   },
   "5": {
     "id" : "5",
@@ -88,7 +89,7 @@ var themes = {
     "cost": 0,
     "source": "https://haeckdesign.com/freebies/themes/triangle-ghost-theme ",
     "demo": "https://demo.haeckdesign.com/triangle/ ",
-    "screenshot" : "http://marketplace.ghost.org/wp-content/uploads/2016/01/triangle-ghost-theme-600x400.jpg",
+    "screenshot" : "https://cdn.haeckdesign.com/images/freebies/triangle-ghost-theme-haeck-design.jpg",
     "tags" : ["light", "1-column", "typographic", "minimal", "responsive", "serif"]
   },
     "6": {
@@ -220,6 +221,17 @@ var themes = {
     "screenshot" : "https://cdn.colorlib.com/wp/wp-content/uploads/sites/2/Attila.png",
     "tags" : ["light", "1-column", "typographic", "minimal", "responsive", "serif"]
   },
+    "15": {
+    "id" : "15",
+    "title": "Haihara",
+    "author": "Haunted Themes",
+    "author_url": "https://www.hauntedthemes.com ",
+    "cost": 34.99,
+    "source": "https://www.hauntedthemes.com",
+    "demo": "https://haihara.hauntedthemes.com",
+    "screenshot" : "https://haihara.hauntedthemes.com/content/images/2017/11/haihara-cover.png",
+    "tags" : ["light", "1-column", "typographic", "minimal", "responsive", "serif"]
+  }
 };
 
 function generateList(json, container) {
