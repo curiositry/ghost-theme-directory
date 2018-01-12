@@ -242,7 +242,18 @@ var themes = {
     "demo": "https://haihara.hauntedthemes.com",
     "screenshot" : "https://haihara.hauntedthemes.com/content/images/2017/11/haihara-cover.png",
     "tags" : ["light", "1-column", "typographic", "minimal", "responsive", "serif"]
-  }
+  },
+  "17": {
+  "id" : "17",
+  "title": "Zvikov",
+  "author": "Haunted Themes",
+  "author_url": "https://www.hauntedthemes.com",
+  "cost": 0,
+  "source": "https://www.hauntedthemes.com",
+  "demo": "https://zvikov.hauntedthemes.com ",
+  "screenshot" : "https://zvikov.hauntedthemes.com/content/images/2017/12/zvikov-cover.png",
+  "tags" : ["light", "1-column", "typographic", "minimal", "responsive", "sans"]
+}
 };
 
 function generateList(json, container) {
