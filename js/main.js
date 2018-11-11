@@ -250,9 +250,31 @@ var themes = {
   "author_url": "https://www.hauntedthemes.com",
   "cost": 0,
   "source": "https://www.hauntedthemes.com",
-  "demo": "https://zvikov.hauntedthemes.com ",
+  "demo": "https://zvikov.hauntedthemes.com",
   "screenshot" : "https://zvikov.hauntedthemes.com/content/images/2017/12/zvikov-cover.png",
   "tags" : ["light", "1-column", "typographic", "minimal", "responsive", "sans"]
+},
+"18": {
+  "id" : "18",
+  "title": "Farafra ",
+  "author": "Haunted Themes ",
+  "author_url": "https://www.hauntedthemes.com/",
+  "cost": 34.99,
+  "source": "https://www.hauntedthemes.com/",
+  "demo": "https://farafra.hauntedthemes.com/",
+  "screenshot" : "https://farafra.hauntedthemes.com/content/images/2018/02/farafra-cover.png ",
+  "tags" : ["light", "1-column", "typographic", "minimal", "responsive", "serif"]
+} ,
+"19": {
+  "id" : "19",
+  "title": "Joelma",
+  "author": "Haunted Themes",
+  "author_url": "https://www.hauntedthemes.com/",
+  "cost": 34.99,
+  "source": "https://www.hauntedthemes.com/",
+  "demo": "https://joelma.hauntedthemes.com/",
+  "screenshot" : "https://joelma.hauntedthemes.com/content/images/2018/04/joelma-cover.png",
+  "tags" : ["light", "1-column", "typographic", "minimal", "responsive", "serif"]
 }
 };
 
