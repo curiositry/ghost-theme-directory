@@ -72,14 +72,14 @@ var themes = {
 
   "4": {
     "id" : "4",
-    "title": "Abstraction",
-    "author": "Will H. McMahan",
-    "author_url": "http://mcmahan.me/",
-    "cost": 0,
-    "source": "https://github.com/whmii/Abstraction",
-    "demo": "http://abstraction.ghost.io/",
-    "screenshot" : "img/screenshots/lg/abstraction.png",
-    "tags" : ["light", "1-column", "boilerplate", "typographic", "responsive", "sans"]
+    "title": "Weblog",
+    "author": "Curiositry",
+    "author_url": "http://curiositry.com",
+    "cost": 21,
+    "source": "https://creativemarket.com/Curiositry/3192652-weblog-%E2%80%94-old-school-ghost-blog-theme",
+    "demo": "http://curiositry.com/weblog-ghost-theme",
+    "screenshot" : "http://cdn.autodidacts.io/img/weblog/weblog-ghost-theme-about-page-screenshot-crop-1.png",
+    "tags" : ["light", "1-column", "minimal", "typographic", "responsive", "sans"]
   },
   "5": {
     "id" : "5",
@@ -123,7 +123,7 @@ var themes = {
     "cost": "0" ,
     "source": "https://github.com/kathyqian/crisp-ghost-theme ",
     "demo": "https://github.com/kathyqian/crisp-ghost-theme ",
-    "screenshot" : "https://raw.githubusercontent.com/kathyqian/crisp-ghost-theme/master/screenshots/list.png",
+    "screenshot" : "https://camo.githubusercontent.com/0dbf56ef66bca284228117917acca5fc11c50b8a/68747470733a2f2f7261772e6769746875622e636f6d2f6b617468797169616e2f63726973702f6d61737465722f6173736574732f73637265656e73686f742d6465736b746f702e706e67",
     "tags" : ["light", "1-column", "typographic", "minimal", "responsive", "serif"]
   },
 
@@ -275,7 +275,18 @@ var themes = {
   "demo": "https://joelma.hauntedthemes.com/",
   "screenshot" : "https://joelma.hauntedthemes.com/content/images/2018/04/joelma-cover.png",
   "tags" : ["light", "1-column", "typographic", "minimal", "responsive", "serif"]
-}
+},
+"20": {
+    "id" : "20",
+    "title": "Abstraction",
+    "author": "Will H. McMahan",
+    "author_url": "http://mcmahan.me/",
+    "cost": 0,
+    "source": "https://github.com/whmii/Abstraction",
+    "demo": "http://abstraction.ghost.io/",
+    "screenshot" : "img/screenshots/lg/abstraction.png",
+    "tags" : ["light", "1-column", "boilerplate", "typographic", "responsive", "sans"]
+  }
 };
 
 function generateList(json, container) {
