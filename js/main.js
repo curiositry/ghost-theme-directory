@@ -357,6 +357,6 @@ document.getElementById('site-footer').innerHTML = '<br><hr><br>' +
   '<a href="http://curiositry.github.io/microplate">Microplate</a>, '+
   '<a href="http://typeplate.com">Typeplate</a>, '+
   '<a href="http://kennethormandy.com/journal/normalize-opentype-css">Normalize-Opentype.css</a>, '+
-  '<a href="http://mixitup.io">MixItUp</a>, '+
+  '<a href="https://www.kunkalabs.com/mixitup/">MixItUp</a>, '+
   'and <a href="http://brick.im">Brick Webfonts</a></em></small>';
 };
